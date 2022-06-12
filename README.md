@@ -1,6 +1,4 @@
-# discord-self-bot
-
-# Markown-memento
+# Discord-Self-Bot
 Discord-Self-Bot et une self-bot avec un peut pret toutes les fonctionnalité néccessaire, avec ce self bot vous pourrez raid ou bien vous amusez avec vos amis
 
 ----------------
@@ -17,4 +15,8 @@ Discord-Self-Bot et une self-bot avec un peut pret toutes les fonctionnalité n�
 
 *Merci pas reprendre le code en modifiant les droit d'auteurs*
 
+Contact : *">Oasis#0001*
+
 <h1>SKID LIST<h1>
+* Aucun pour le moment
+  
